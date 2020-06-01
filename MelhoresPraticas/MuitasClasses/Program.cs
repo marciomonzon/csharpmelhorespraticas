@@ -12,6 +12,7 @@ namespace MuitasClasses
 
     // não é bom que uma classe tenha muitas dependencias
     // de classes
+    // isso é um dos principios do SOLID
     public class MainClass
     {
         public void Start()
@@ -23,22 +24,19 @@ namespace MuitasClasses
 
         public void Stop()
         {
-
+            // do something
         }
     }
 
     public class Class1
     {
-
     }
 
     public class Class2
     {
-
     }
 
     public class Class3
     {
-
     }
 }
