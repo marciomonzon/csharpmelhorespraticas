@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Override", "Override\Override.csproj", "{05D55EE0-2248-4057-8546-62573F6B09EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Override", "Override\Override.csproj", "{05D55EE0-2248-4057-8546-62573F6B09EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumNumbers", "EnumNumbers\EnumNumbers.csproj", "{7A222266-F4F5-43D8-AD6C-28B723C5297C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumNumbers", "EnumNumbers\EnumNumbers.csproj", "{7A222266-F4F5-43D8-AD6C-28B723C5297C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regions", "Regions\Regions.csproj", "{EDFE7FE1-E3A4-4613-8ED7-0CC87601D556}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regions", "Regions\Regions.csproj", "{EDFE7FE1-E3A4-4613-8ED7-0CC87601D556}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuitasClasses", "MuitasClasses\MuitasClasses.csproj", "{E5C15E50-786C-4C73-94FB-A84C3FE673FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MuitasClasses", "MuitasClasses\MuitasClasses.csproj", "{E5C15E50-786C-4C73-94FB-A84C3FE673FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultValue", "DefaultValue\DefaultValue.csproj", "{76D46BD2-64AD-4546-A207-3F4CDE87E7BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultValue", "DefaultValue\DefaultValue.csproj", "{76D46BD2-64AD-4546-A207-3F4CDE87E7BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfsAlinhados", "IfsAlinhados\IfsAlinhados.csproj", "{D508DCA7-40BB-42B1-A311-6505A6CC8B51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfsAlinhados", "IfsAlinhados\IfsAlinhados.csproj", "{D508DCA7-40BB-42B1-A311-6505A6CC8B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis", "Variaveis\Variaveis.csproj", "{0322D4D6-206E-475F-8BF1-2B07BD7D58AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedSealed", "ProtectedSealed\ProtectedSealed.csproj", "{AE1A64B9-C4D7-49C7-973E-5720D36A7760}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{D508DCA7-40BB-42B1-A311-6505A6CC8B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D508DCA7-40BB-42B1-A311-6505A6CC8B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D508DCA7-40BB-42B1-A311-6505A6CC8B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0322D4D6-206E-475F-8BF1-2B07BD7D58AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0322D4D6-206E-475F-8BF1-2B07BD7D58AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0322D4D6-206E-475F-8BF1-2B07BD7D58AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0322D4D6-206E-475F-8BF1-2B07BD7D58AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1A64B9-C4D7-49C7-973E-5720D36A7760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1A64B9-C4D7-49C7-973E-5720D36A7760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1A64B9-C4D7-49C7-973E-5720D36A7760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1A64B9-C4D7-49C7-973E-5720D36A7760}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
