@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongasLinhas", "LongasLinha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenosIf", "MenosIf\MenosIf.csproj", "{E2226F16-2D4B-41D8-AC95-CB0BD7ABF15C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchDictionary", "SwitchDictionary\SwitchDictionary.csproj", "{8241CB29-A150-4CE7-B523-B0B4FAF32451}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{E2226F16-2D4B-41D8-AC95-CB0BD7ABF15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2226F16-2D4B-41D8-AC95-CB0BD7ABF15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2226F16-2D4B-41D8-AC95-CB0BD7ABF15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8241CB29-A150-4CE7-B523-B0B4FAF32451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8241CB29-A150-4CE7-B523-B0B4FAF32451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8241CB29-A150-4CE7-B523-B0B4FAF32451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8241CB29-A150-4CE7-B523-B0B4FAF32451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
