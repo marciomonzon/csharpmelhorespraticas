@@ -17,8 +17,6 @@ namespace ProtectedSealed
 
         sealed class Employee : Person
         {
-            // não tem necessidade de ser protected
-            // a classe já é sealed
             //protected string EmployeeCode { get; set; }
 
             private string EmployeeCode { get; set; }
